@@ -21,8 +21,8 @@ docker-compose file is in and it will launch containers for the practical applic
 6. Logout button successfully logs the user out
 
 ## Two methods to run the test
-- node_modules\.bin\cypress run --headed --browser chrome  --spec "cypress/integration/swimlaneTest.js" 
-- node_modules\.bin\cypress open and select the swimlaneTest.js
+- node_modules\\.bin\cypress run --headed --browser chrome  --spec "cypress/integration/swimlaneTest.js" 
+- node_modules\\.bin\cypress open and select the swimlaneTest.js
 
 
 ## Tested with 
